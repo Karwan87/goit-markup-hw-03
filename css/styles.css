@@ -6,15 +6,17 @@ body {
 .primarysection {
   background: #2f303a;
   text-align: center;
-  width: 1200px;
+  width: 100%;
   height: 600px;
   padding-top: 200px;
+  margin: 0 auto;
 }
 .secondarysection {
   align-items: center;
   justify-content: center;
   width: 1200px;
   height: 150px;
+  margin: 0 auto;
 }
 .title {
   font-weight: 900;
@@ -268,9 +270,11 @@ body {
 }
 .footer1 {
   background: #2f303a;
+  width: 100%;
 }
 .footer2 {
   background: #2f303a;
+  width: 100%;
 }
 
 .logo-footer {
@@ -493,7 +497,8 @@ li {
   line-height: 2;
   text-align: left;
   letter-spacing: 0.06em;
-
+  margin-top: 30px;
+  align-content: center;
   color: #212121;
 }
 .category {
@@ -501,7 +506,7 @@ li {
   font-size: 16px;
   line-height: 1.875;
   letter-spacing: 0.03em;
-
+  align-content: center;
   color: #757575;
 }
 .container {
@@ -510,7 +515,7 @@ li {
   max-width: 1200px;
   width: 100%;
   align-items: center;
-  margin: 0 auto;
+
   padding: 0 15px;
 }
 .support-container {
@@ -536,16 +541,17 @@ li {
 }
 .second-list-style {
   display: flex;
-  width: 1200px;
+  width: 1170px;
   padding-left: 15px;
   padding-right: 15px;
-  padding: 0px 0 94px 0;
+  padding-bottom: 94px;
   justify-content: space-between;
   list-style-type: none;
   line-height: 0.875;
   align-items: center;
   text-align: center;
   padding-top: 0;
+  margin: 0 auto;
 }
 .third-list-style {
   display: flex;
