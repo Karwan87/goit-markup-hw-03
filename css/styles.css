@@ -567,7 +567,7 @@ li {
   width: 1200px;
   padding-left: 15px;
   padding-right: 15px;
-  padding: 94px 0 94px 0;
+  padding-top: 94px;
   justify-content: center;
   list-style-type: none;
   line-height: 0.875;
@@ -580,7 +580,6 @@ ul {
 }
 .fifth-list-style {
   display: flex;
-  padding: 94px 0 94px 0;
   justify-content: center;
   list-style-type: none;
   line-height: 0.875;
