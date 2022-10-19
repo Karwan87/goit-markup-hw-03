@@ -3,22 +3,16 @@ body {
   font-style: normal;
   font-weight: 500;
 }
-.sectionone {
+.section {
+  text-align: center;
+  padding: 94px 0 94px 0;
+  margin: 0 auto;
+}
+.first-background {
   background: #2f303a;
-  text-align: center;
-  padding: 94px 0 94px 0;
-  margin: 0 auto;
 }
-.sectiontwo {
-  text-align: center;
-  padding: 94px 0 94px 0;
-  margin: 0 auto;
-}
-.sectionthree {
+.second-background {
   background: #f5f4fa;
-  text-align: center;
-  padding: 94px 0 94px 0;
-  margin: 0 auto;
 }
 .title {
   font-weight: 900;
